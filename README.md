@@ -1,4 +1,4 @@
-##PySide CodeIntel
+#PySide CodeIntel
 
 Komodo catalog files for PySide code intelligence.
 
